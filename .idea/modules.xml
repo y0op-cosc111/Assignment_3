@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GeometricPoints/GeometricPoints.iml" filepath="$PROJECT_DIR$/GeometricPoints/GeometricPoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SongsInCD/SongsInCD.iml" filepath="$PROJECT_DIR$/SongsInCD/SongsInCD.iml" />
+    </modules>
+  </component>
+</project>
